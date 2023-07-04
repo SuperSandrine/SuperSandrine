@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuperSandrine
-- 👀 I’m interested in front end
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in front end, react, UI, UX,
+- 🌱 I’m currently learning React libraries
 - 📫 How to reach me : send a private message !
 
 <!---
