@@ -23,7 +23,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 </br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=20&center=false&lines=I'm+Sandrine...;freelance 👨‍💻...;working remotely since 2022..."/>
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=20&center=true&lines=I'm+Sandrine...;freelance 👨‍💻...;working remotely since 2022..."/> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=500&center=true&random=false&width=435&lines=I'm+Sandrine;freelance+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+working+remotely+since+2022)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning TypeScript and some backend tech  
 - 👀 I’m interested in front-end, react, UI, UX
@@ -100,3 +102,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SuperSandrine&&style=flat-square" alt="" />
 </div>  
+
+
+
+<!-- ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
