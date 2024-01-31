@@ -3,27 +3,32 @@ SuperSandrine/SuperSandrine is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="header" align="center">
+<div id="header" >
   <!-- <img src="https://giphy.com/gifs/UAB-IT-tech-technology-uabit-VdoIFLsMIlwzfKD520"> -->
+  <!-- <iframe src="https://giphy.com/embed/VdoIFLsMIlwzfKD520" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UAB-IT-tech-technology-uabit-VdoIFLsMIlwzfKD520">via GIPHY</a></p> -->
+  
+  <img align="left" alt="GIF say hello" src="https://github.com/SuperSandrine/SuperSandrine/blob/main/woman-coder-say-hi.gif?raw=true" width="350" style="border-radius:5%" />
 
+<div id="header-title" align="center">
+  <h1>
+    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+    </br> Hi! </br> I'm front-end developper
+  </h1>
 
-<!-- <iframe src="https://giphy.com/embed/VdoIFLsMIlwzfKD520" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UAB-IT-tech-technology-uabit-VdoIFLsMIlwzfKD520">via GIPHY</a></p> -->
-
-<h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br> Hi! </br> I'm front-end developper
-</h1>
-
-<a href="https://github.com/superSandrine" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</br>
-</br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=3000&pause=200&color=FF5700&center=true&vCenter=true&random=false&width=435&lines=I'm+Sandrine;freelance;working+remotely+since+2022" alt=""/>
+  <a href="https://github.com/superSandrine" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  </br>
+  </br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=3000&pause=200&color=414acf&center=true&vCenter=true&random=false&width=435&lines=I'm+Sandrine;freelance;working+remotely+since+2022" alt=""/>
+  </div>
 </div>
 </br>
+</br>
+
 
 
 - 🌱 I’m currently learning TypeScript and some backend techs
@@ -79,7 +84,6 @@ You can click the Preview link to take a look at your changes.
 </td></tr></table>  
 
 <br/>  
-
 <br/>  
 
 
@@ -88,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandrine&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=-30,041658,a8401e,ff5700)](https://github.com/SuperSandrine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandrine&layout=compact&title_color=260781&text_color=260781&bg_color=-30,ffffff,fff2bc,ffb500,ffe267,fff2bc,4f12ff,414acf)](https://github.com/SuperSandrine/github-readme-stats)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=superSandrine&show_icons=true&count_private=true&hide_border=true" alt=""/> -->
 
