@@ -9,9 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <iframe src="https://giphy.com/embed/VdoIFLsMIlwzfKD520" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UAB-IT-tech-technology-uabit-VdoIFLsMIlwzfKD520">via GIPHY</a></p> -->
 
-<h1>Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- ! </br> I'm front-end developper
+<h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </br> Hi! </br> I'm front-end developper
 </h1>
 
 <a href="https://github.com/superSandrine" target="_blank">
@@ -19,15 +18,15 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+</br>
+</br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=3000&pause=200&color=FF5700&center=true&vCenter=true&random=false&width=435&lines=I'm+Sandrine;freelance;working+remotely+since+2022" alt=""/>
 </div>
 </br>
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=20&center=true&lines=I'm+Sandrine...;freelance 👨‍💻...;working remotely since 2022..."/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=500&center=true&random=false&width=435&lines=I'm+Sandrine;freelance+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+working+remotely+since+2022)](https://git.io/typing-svg)
-
-- 🌱 I’m currently learning TypeScript and some backend tech  
+- 🌱 I’m currently learning TypeScript and some backend techs
 - 👀 I’m interested in front-end, react, UI, UX
 - ⚡ Fun fact: I use tabs over spaces and I'm a theatre costume designer 
 
@@ -81,9 +80,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 
-
-  
-
 <br/>  
 
 
@@ -92,9 +88,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandrine&layout=compact)](https://github.com/SuperSandrine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandrine&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=-30,041658,a8401e,ff5700)](https://github.com/SuperSandrine/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=superSandrine&show_icons=true&count_private=true&hide_border=true" alt=""/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=superSandrine&show_icons=true&count_private=true&hide_border=true" alt=""/> -->
 
 </div>  
 
