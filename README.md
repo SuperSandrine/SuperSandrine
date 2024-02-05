@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 
-- 🎓 I finished a Front-End developer training at <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">@OpenClassrooms</a>
+- 🎓 I finished a Front-End developer training at <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms</a>
 - 🌱 I’m currently learning TypeScript and some backend techs
 - 👀 I’m interested in front-end, react, UI, UX
 - ⚡ Fun fact: I use tabs over spaces and I'm also a theatre costume designer 
