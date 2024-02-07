@@ -43,15 +43,15 @@ You can click the Preview link to take a look at your changes.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 
 #### Frameworks and Libraries
-###### Web app 
-####### General tools
+##### Web app 
+###### General tools
 [![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245.svg?&style=for-the-badge&logo=reactRouter&logoColor=white&labelColor=101010)](#)
 [![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?&style=for-the-badge&logo=createReactApp&logoColor=white&labelColor=101010)](#)
 [![Vite](https://img.shields.io/badge/vite%20-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)](#) 
 [![Redux](https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)](#)
 </br>
-####### CSS and styling tools
+###### CSS and styling tools
 [![Sass](https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 [![BEM](https://img.shields.io/badge/BEM%20-000000.svg?&style=for-the-badge&logo=bem&logoColor=white&labelColor=101010)](#)
 [![Styled components](https://img.shields.io/badge/Styled%20components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white&labelColor=101010)](#)
