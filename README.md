@@ -50,7 +50,6 @@ You can click the Preview link to take a look at your changes.
 [![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?&style=for-the-badge&logo=createReactApp&logoColor=white&labelColor=101010)](#)
 [![Vite](https://img.shields.io/badge/vite%20-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)](#) 
 [![Redux](https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)](#)
-</br>
 ###### CSS and styling tools
 [![Sass](https://img.shields.io/badge/Sass%20-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 [![BEM](https://img.shields.io/badge/BEM%20-000000.svg?&style=for-the-badge&logo=bem&logoColor=white&labelColor=101010)](#)
@@ -59,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-06B6D4.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white&labelColor=101010)](#)
 [![Mapbox](https://img.shields.io/badge/Mapbox%20-000000.svg?&style=for-the-badge&logo=mapbox&logoColor=white&labelColor=101010)](#)
 
-###### Mobile app
+##### Mobile app
 [![React Native](https://img.shields.io/badge/react%20native-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![React Navigation](https://img.shields.io/badge/react%20navigation-c2a1e2.svg?&style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![Expo](https://img.shields.io/badge/expo%20-101010.svg?&style=for-the-badge&logo=expo&logoColor=%white&labelColor=101010)](#)
