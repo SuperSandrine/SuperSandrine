@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
   <h1>
     </br> Hi! </br> I'm front-end developper
   </h1>
-  <h3> Need a showcase website, a UI redesign, or a custom integration? I'm available! 📩 Contact me: </h3>
    <a href="https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -40,6 +39,12 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning React Native ans Svelte
 - ⚡ Fun fact: I'm also a theatre costume designer 
 
+<h3> Need a showcase website, a UI redesign, or a custom integration? I'm available! </h3>
+</br> Contact me:
+  <a href="https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/superSandrine" target="_blank">
 <br/>  
 
 
