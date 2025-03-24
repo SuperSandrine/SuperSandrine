@@ -11,25 +11,33 @@ You can click the Preview link to take a look at your changes.
   <h1>
     </br> Hi! </br> I'm front-end developper
   </h1>
-
+  <h3> Need a showcase website, a UI redesign, or a custom integration? I'm available! 📩 Contact me: </h3>
+   <a href="https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/superSandrine" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandrine-mestas-gleizes/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   </br>
   </br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=3000&pause=200&color=414acf&center=true&vCenter=true&random=false&width=435&lines=I'm+Sandrine;freelance;working+remotely+since+2022" alt=""/>
+  
   </div>
 </div>
 </br>
 </br>
 
-- ✨ I named my business Asteria Code 
-- 🎓 I finished a Front-End developer training at <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms</a>
+- ✨ I named my business Asteria Code
+- 💡 Passionate about React.js, Web Accessibility, mobile first, DDD, KISS, TDD, SOLID
+- 🎨 Custom Web Interface Creation | UI Design & Performance
+- 🔥 What I do
+  -  ✨ Development of modern & high-performance interfaces with React.js
+  -  🎨 Implementation of consistent and accessible design systems
+  -  🚀 UX/UI optimization
+  -  🔌 Integration of APIs and external services
+  -  📱 Responsive & eco-design for lightweight, fast websites
+- 🎓 I passed a Front-End developer training at <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms</a>
 - 🌱 I’m currently learning React Native ans Svelte
-- 👀 I’m interested in front-end, react, UI, UX
 - ⚡ Fun fact: I'm also a theatre costume designer 
 
 <br/>  
@@ -41,6 +49,8 @@ You can click the Preview link to take a look at your changes.
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](#)
+
 
 #### Frameworks and Libraries
 ##### Web app 
