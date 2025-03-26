@@ -26,16 +26,19 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 
-- ✨ I named my business Asteria Code
 - 💡 Passionate about React.js, Web Accessibility, mobile first, DDD, KISS, TDD, SOLID
 - 🎨 Custom Web Interface Creation | UI Design & Performance
-- 🔥 What I do
+
+### 🔥 What I do
   -  ✨ Development of modern & high-performance interfaces with React.js
   -  🎨 Implementation of consistent and accessible design systems
   -  🚀 UX/UI optimization
   -  🔌 Integration of APIs and external services
   -  📱 Responsive & eco-design for lightweight, fast websites
+
+#### More
 - 🎓 I passed a Front-End developer training at <a href="https://openclassrooms.com/en/paths/516-developpeur-dapplication-javascript-react">OpenClassrooms</a>
+- ✨ I named my business Asteria Code
 - 🌱 I’m currently learning React Native ans Svelte
 - ⚡ Fun fact: I'm also a theatre costume designer 
 </br>
